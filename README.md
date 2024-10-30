@@ -1,16 +1,5 @@
-# github_profile_finder
+It is a profile finder app for all github profiles.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1](https://github.com/user-attachments/assets/d37dd1da-1f60-43c2-81ac-5f910c26f2a8)
+![Screenshot_2](https://github.com/user-attachments/assets/0e2e4245-469f-4a45-9a2f-d3bfe12f56d5)
+![Screenshot_3](https://github.com/user-attachments/assets/be863f52-9366-408d-9c70-725367f8d318)
